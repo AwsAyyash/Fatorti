@@ -1,7 +1,7 @@
 # Fatoorti
 
-Assignment 1&2 -Full project- for the Mobile Development Course (COMP438)/ Birzeit University, Fall Semester 2022/2023. A native android mobile app in Java following the MVC design pattern.
-which is a bill management  app helping the users, view and pay thier bills (e.g. Electricity, Gas, Water, Etc.). Which communicate to Google cloud storage (firestore - firebase - NoSQL database).
+Assignment 1&2 -Full project- for the Mobile Development Course (COMP438)/ Birzeit University, Fall Semester 2022/2023. 
+A native android mobile app in Java following the MVC design pattern. which is a bill management  app helping the users, view and pay their bills (e.g. Electricity, Gas, Water, Etc.). Which communicate to Google cloud storage (firestore - firebase - NoSQL database).
 
 
 ### Developed by:
